@@ -1,3 +1,12 @@
 [submodule "themes/dark-theme-editor"]
 	path = themes/dark-theme-editor
 	url = https://github.com/JingWangTW/dark-theme-editor.git
+[submodule "content/themes/hugo-book"]
+	path = content/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "themes/hugo-book"]
+	path = themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "themes/hugo-bearcub"]
+	path = themes/hugo-bearcub
+	url = https://github.com/clente/hugo-bearcub
