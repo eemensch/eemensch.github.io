@@ -1,0 +1,17 @@
+baseURL = 'https://eemensch.github.io/'
+languageCode = 'en-au'
+title = 'Iman homepage'
+theme = 'dark-theme-editor'
+
+[params.globalFrontmatter]
+        # The author of this site. This will be shown in 
+        # 1. the footer of all page
+        # 2. the author filed in the single page. (this could be overwritten by the frontmatter of the single page.)
+        # Keep it an empty string or remove this item will hide it from the page
+        author = "Iman Shames"
+        
+        # Website description for RSS and SEO. Theme will generate a <meta> tag for this item
+        description = "My personal page"
+
+        # Website keywords. Theme will generate a <meta> tag for this item.
+        keywords = "hugo,site,new"
