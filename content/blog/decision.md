@@ -40,7 +40,7 @@ title = 'Decision and Control Workshop'
 
 1400-1425 Yanan Liu  “Coherent feedback controller design for quantum optical systems”
 
-1425-1450 Daoyi Dong, TBD
+1425-1450 Daoyi Dong, "Quantum autoencoders: compression rate, analysis, control and realisation"
 
 1450-1520 Hendra Nurdin, "Stochastic quantum non-Markovian dynamics under continuous-measurement" 
 
