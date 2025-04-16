@@ -1,12 +1,13 @@
----
-date: "2025-04-14"
-draft: false
-title: "Decision and Control Workshop"
++++
+date = "2025-04-14"
+draft = false
+title = "Decision and Control Workshop"
 # description: "Workshop Schedule"
-keywords: ["workshop"]
-tags: ["news", "research"]
-summary: "The schedule of the 2025 Decision and Control Workshop"
----
+keywords = ["workshop"]
+tags = ["news", "research"]
+summary = "The schedule of the 2025 Decision and Control Workshop"
+author = "Iman Shames and Daniel Quevedo"
++++
 
 
 
