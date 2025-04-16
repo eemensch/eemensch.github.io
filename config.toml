@@ -1,0 +1,73 @@
+title = "Iman Shames' Homepage"
+languageCode = "en-us"
+baseURL = 'https://eemensch.github.io/'
+# copyright = "Sample custom notice © {year}"
+disqusShortname = ""
+theme = "hugo-xterm"
+
+
+
+[pagination]
+pagerSize = 10
+
+[taxonomies]
+tags = "tags"
+categories = "categories"
+
+
+[params]
+  centerTheme = true
+  showMenuItems = true
+  favicon = "/images/xterm.png"
+  showBreadCrumbs = true
+  toc = true
+  copyrightUserUrl = "https://eemensch.github.io/"
+  copyrightUserText = "Iman Shames"
+
+
+# Navigation
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "home"
+    title = "Home"
+    url = "/"
+    weight = 1
+  
+  [[menu.main]]
+    identifier = "news"
+    name = "news"
+    title = "News"
+    url = "/news"
+    weight = 2
+  
+  [[menu.main]]
+    identifier = "research"
+    name = "research"
+    title = "Research"
+    url = "/research"
+    weight = 3
+  
+  [[menu.main]]
+    identifier = "teaching"
+    name = "teaching"
+    title = "Teaching"
+    url = "/teaching"
+    weight = 4
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
+
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = false
