@@ -2,7 +2,6 @@ title = "Iman Shames' Homepage"
 languageCode = "en-us"
 baseURL = 'https://eemensch.github.io/'
 # copyright = "Sample custom notice © {year}"
-disqusShortname = ""
 theme = "hugo-xterm"
 
 
@@ -18,7 +17,7 @@ categories = "categories"
 [params]
   centerTheme = true
   showMenuItems = true
-  favicon = "/images/xterm.png"
+  favicon = "/static/xterm.png"
   showBreadCrumbs = true
   toc = true
   copyrightUserUrl = "https://eemensch.github.io/"
