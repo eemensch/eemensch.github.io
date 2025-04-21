@@ -27,7 +27,8 @@ author = "Iman Shames and Daniel Quevedo"
 
 930-1000 Ye Pu, “Learning-based perception and control for underwater robots”
 
-1000-1030 Thomas Chaffey, “Convergence of energy-based learning in linear resistive networks”
+1000-1030 Thomas Chaffey, "In-memory computing,
+optimisation and circuit theory"
 
 
 1030-1045 Coffee
@@ -43,19 +44,18 @@ author = "Iman Shames and Daniel Quevedo"
 
 1330-1400 Guodong Shi, “Controllability of Bits and Qubits”
 
-1400-1425 Yanan Liu  “Coherent feedback controller design for quantum optical systems”
+1400-1430 Yanan Liu  “Coherent feedback controller design for quantum optical systems”
 
-1425-1450 Daoyi Dong, "Quantum autoencoders: compression rate, analysis, control and realisation"
+1430-1500 Daoyi Dong, "Quantum autoencoders: compression rate, analysis, control and realisation"
 
-1450-1520 Hendra Nurdin, "Stochastic quantum non-Markovian dynamics under continuous-measurement" 
+1500-1530 Coffee
 
+1530-1600 Hendra Nurdin, "Stochastic quantum non-Markovian dynamics under continuous-measurement" 
 
-1520-1545 Coffee
+1600-1630 Erik Weyer, “State conditional filtering”
 
+1630-1700 Andrey Savkin,  “Navigation of Autonomous Unmanned Vehicles for Surveillance, Data Collection, Eavesdropping and Communication”
 
-1545-1610 Andrey Savkin,  “Navigation of Autonomous Unmanned Vehicles for Surveillance, Data Collection, Eavesdropping and Communication”
-
-1610-1635 Erik Weyer, “State conditional filtering”
 
 
 
@@ -70,7 +70,8 @@ author = "Iman Shames and Daniel Quevedo"
 
 930-1000 Liz Ratnam, Social Shaping of Renewable Energy Markets
 
-1000-1030 Julio Braslavsky, TBD
+1000-1030 Julio Braslavsky, "In-memory computing,
+optimisation and circuit theory"
 
 
 1030-1045 Coffee
@@ -80,19 +81,19 @@ author = "Iman Shames and Daniel Quevedo"
 
 1115-1145 Alejandro Donaire, “Scalability input-to-state-stability of interconnected nonlinear systems”
 
-1145-1210 Philipp Braun, “Prying Pedestrian Surveillance-Evasion: Minimum-Time Evasion from an Agile Pursue”
+1145-1215 Philipp Braun, “Prying Pedestrian Surveillance-Evasion: Minimum-Time Evasion from an Agile Pursue”
 
 
-1210-1340 Lunch
+1215-1330 Lunch
 
 
 1340-1530  Posters and Coffee
 
 
-1530-1555 Timothy Molloy,  “ISC-POMDPs: Partially Observed Markov Decision Processes with Initial-State Dependent Costs”
+1530-1600 Ian Petersen, “Control Theory Applied to Accelerated Gradient Optimization Algorithms”
 
-1555-1620 Ian Petersen, “Control Theory Applied to Accelerated Gradient Optimization Algorithms” 
+1555-1630  Timothy Molloy,  “ISC-POMDPs: Partially Observed Markov Decision Processes with Initial-State Dependent Costs”
 
 
 
-1620 Closing Remarks
+1630 Closing Remarks
