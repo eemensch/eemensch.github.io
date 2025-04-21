@@ -18,7 +18,7 @@ author = "Iman Shames and Daniel Quevedo"
 
 
 
-### Day 1: 7 long talks + 6 short talks
+### Day 1 -- 23 April 2025:
 
 
 845-900 Welcome and Coffee
@@ -60,7 +60,7 @@ optimisation and circuit theory"
 
 
 
-### Day 2: 7 Long Talks  + Posters + 2 Short Talks
+### Day 2 -- 24 April 2025:
 
 
 845-900 Welcome and Coffee
