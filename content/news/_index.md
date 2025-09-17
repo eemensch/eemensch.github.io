@@ -1,9 +1,10 @@
 +++
-title = 'News'
-date = 2024-12-16T11:30:04+01:00
-draft = false
+title = "News"
+description = "News items"
+date = "2024-12-16"
+author = "Iman Shames"
 +++
 
 👋🏻 Welcome to the news page!
 
----
+
