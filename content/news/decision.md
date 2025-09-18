@@ -7,6 +7,7 @@ keywords = ["workshop"]
 tags = ["news", "research"]
 summary = "The schedule of the 2025 Decision and Control Workshop"
 author = "Iman Shames and Daniel Quevedo"
+toc = true
 +++
 
 

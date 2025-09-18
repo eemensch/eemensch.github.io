@@ -1,8 +1,6 @@
-title = "Iman Shames Homepage"
+title = ""
 languageCode = "en-us"
 baseURL = "https://eemensch.github.io/"
-# baseURL = "http://localhost:1313/"
-# copyright = "Sample custom notice © {year}"
 theme = "hugo-flex"
 
 
@@ -15,40 +13,50 @@ categories = "categories"
 
 
 [params]
+  color = "darkorange" # Any color in CSS syntax
+  width= "42rem"          # Any length in CSS syntax / leave empty to span page
+  # divider= "\\2500\2500"   # Any string in CSS syntax / leave empty for no divider
+  #footer= """Except where otherwise noted, content on this site is licensed under a &#32;
+#<a href="http://creativecommons.org/licenses/by/4.0/" rel="license">Creative
+#Commons Attribution 4.0 International License</a>.""" # HTML spaces (&#32;) are needed before HTML elements
+footer= "" 
   #showMenuItems = true
-  favicon = "/static/xterm.png"
+  #favicon = "/static/xterm.png"
   #showBreadCrumbs = true
   noClasses = false                                     # Set to true to use inline CSS for syntax highlighting
   katex = "0.16.22"                                     # KaTeX version / leave empty to use the latest version
   toc = true
+  summaries = true
+
+
 
 
 # Navigation
 [menu]
   [[menu.main]]
-    identifier = "home"
-    name = "home"
+    identifier = "Home"
+    name = "Home"
     title = "Home"
     url = "/"
     weight = 1
   
   [[menu.main]]
-    identifier = "news"
-    name = "news"
+    identifier = "News"
+    name = "News"
     title = "News"
     url = "/news"
     weight = 2
   
   [[menu.main]]
     identifier = "research"
-    name = "research"
+    name = "Research"
     title = "Research"
     url = "/research"
     weight = 3
   
   [[menu.main]]
-    identifier = "teaching"
-    name = "teaching"
+    identifier = "Teaching"
+    name = "Teaching"
     title = "Teaching"
     url = "/teaching"
     weight = 4
