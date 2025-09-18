@@ -27,6 +27,7 @@ footer= ""
   katex = "0.16.22"                                     # KaTeX version / leave empty to use the latest version
   toc = true
   summaries = true
+  math = true  
 
 
 
@@ -66,13 +67,12 @@ footer= ""
     startLevel = 2
     endLevel = 3
     ordered = false
-
   [markup.highlight]
-      noClasses = false
-[markup.goldmark.extensions.passthrough]
-enable = true
-[markup.goldmark.extensions.passthrough.delimiters]
-block = [['\\[', '\\]'], ['$$', '$$']]
-inline = [['\\(', '\\)']]
-
-
+    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]

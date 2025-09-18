@@ -17,7 +17,6 @@ Technology. I earned my Ph.D. in Engineering and Computer Science from the
 Australian National University in 2011, after completing a B.Sc. in Electrical
 and Electronics Engineering at Shiraz University in 2006.
 
-
 <!-- See my CV and the Research Projects page for more information. To check current research fellow (postdoctoral) and PhD scholarship  positions check Open Positions. -->
 <!-- Prospective Students -->
 
@@ -26,7 +25,7 @@ and Electronics Engineering at Shiraz University in 2006.
 **Research Interests**
 
 - Decision Making Under Uncertainty
-- Game Theory and its applications
+- Game Theory and Applications
 - Trusted Autonomous Systems
 - Optimization Theory and Applications
 - Networked Systems: Control and Estimation
