@@ -49,10 +49,10 @@ footer= ""
     weight = 2
   
   [[menu.main]]
-    identifier = "research"
-    name = "Research"
-    title = "Research"
-    url = "/research"
+    identifier = "Publications"
+    name = "Publications"
+    title = "Publications"
+    url = "/publications"
     weight = 3
   
   [[menu.main]]
