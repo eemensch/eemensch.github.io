@@ -13,7 +13,7 @@ categories = "categories"
 
 
 [params]
-  color = "darkorange" # Any color in CSS syntax
+  color = "deepskyblue" # Any color in CSS syntax
   width= "42rem"          # Any length in CSS syntax / leave empty to span page
   # divider= "\\2500\2500"   # Any string in CSS syntax / leave empty for no divider
   #footer= """Except where otherwise noted, content on this site is licensed under a &#32;
