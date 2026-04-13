@@ -278,14 +278,15 @@ function toggleNav(){document.getElementById('navLinks').classList.toggle('open'
 const members=[
   {i:'IS',n:'Iman Shames',r:'Principal Investigator',t:['Control Systems', 'Optimisation','Game Theory', 'Autonomy']},
   {i:'MD',n:'Moritz Doll',r:'Postdoctoral Researcher',t:['Provable Computing']},
-  {i:'AF',n:'Amir Ali Farzin',r:'PhD Candidate',t:['Optimisation']},
+  {i:'AF',n:'Amir Ali Farzin',r:'PhD Candidate',t:['Optimisation'],u:'https://amirali78frz.github.io/'},
   {i:'OD',n:'Olivia Dry',r:'PhD Candidate',t:['Optimal Control','Game Theory','Optimisation']},
   {i:'EM',n:'Emile Marcotte',r:'PhD Candidate',t:['Optimal Control', 'Game Theory', 'Hybrid Dynamical Systems']},
   {i:'YN',n:'Yagnesh Naidu',r:'MPhil Candidate',t:['Field Estimation']},
 ];
 const mg=document.getElementById('membersGrid');
 members.forEach(m=>{
-  const c=document.createElement('div');c.className='member-card';
+  const c=document.createElement(m.u?'a':'div');c.className='member-card';
+  if(m.u){c.href=m.u;c.target='_blank';c.rel='noopener';c.style.textDecoration='none'}
   c.innerHTML=`<div class="member-avatar">${m.i}</div><div class="member-name">${m.n}</div><div class="member-role">${m.r}</div><div class="member-tags">${m.t.map(x=>`<span class="member-tag">${x}</span>`).join('')}</div>`;
   mg.appendChild(c);
 });
